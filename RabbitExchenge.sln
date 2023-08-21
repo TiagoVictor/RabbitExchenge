@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FanoutConsumer", "FanoutCon
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fanout", "Fanout", "{4969FA28-1401-471D-AACD-2A5F7EC26600}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Direct", "Direct", "{322F593D-A134-4D9A-90BA-FA8D2FB9196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange", "DirectExchange\DirectExchange.csproj", "{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{108D315A-B233-4B8F-9996-704DE9B014B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{108D315A-B233-4B8F-9996-704DE9B014B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{108D315A-B233-4B8F-9996-704DE9B014B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{24C7E223-C5C4-49DA-9B4C-5D1C367C1934} = {4969FA28-1401-471D-AACD-2A5F7EC26600}
 		{108D315A-B233-4B8F-9996-704DE9B014B5} = {4969FA28-1401-471D-AACD-2A5F7EC26600}
+		{4B6A492C-5E5E-4C62-B88E-90F3366ED9A4} = {322F593D-A134-4D9A-90BA-FA8D2FB9196B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45E753B0-07F3-4111-B26A-2ED153BC9F33}
