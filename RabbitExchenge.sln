@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutPublisher", "FanoutPublisher\FanoutPublisher.csproj", "{24C7E223-C5C4-49DA-9B4C-5D1C367C1934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FanoutPublisher", "FanoutPublisher\FanoutPublisher.csproj", "{24C7E223-C5C4-49DA-9B4C-5D1C367C1934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutConsumer", "FanoutConsumer\FanoutConsumer.csproj", "{108D315A-B233-4B8F-9996-704DE9B014B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FanoutConsumer", "FanoutConsumer\FanoutConsumer.csproj", "{108D315A-B233-4B8F-9996-704DE9B014B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{4969FA28-1401-471D-AACD-2A5F7EC26600}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fanout", "Fanout", "{4969FA28-1401-471D-AACD-2A5F7EC26600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
